@@ -1,0 +1,41 @@
+body {
+    font: 20px arial;
+}
+
+.navbar {
+    background-color: rgb(224, 250, 250);
+}
+
+.margin {
+    padding: 30px;
+}
+
+.quem_somos {
+    border-top: 1px solid black;
+    text-align: center;
+    background-color: rgb(168, 196, 186);
+}
+
+.img1 {
+    height: 200px;
+    width: 200px;
+}
+
+.imgcoligado {
+    height: 300px;
+    width: 300px;
+    width: 100%;
+}
+
+.cor_coligado {
+    background-color: rgb(167, 189, 182);
+}
+
+.social {
+    background-color: rgb(137, 155, 149);
+}
+
+.roda_pe {
+    padding: 10px;
+    background-color: rgb(132, 163, 163);
+}
